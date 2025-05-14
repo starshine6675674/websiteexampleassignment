@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffafc;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  color: #ff69b4;
+}
+.cat-img {
+  width: 300px;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.fun-fact {
+  background-color: #ffeef8;
+  padding: 10px;
+  margin: 20px auto;
+  width: 60%;
+  border-radius: 10px;
+}
